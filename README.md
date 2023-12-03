@@ -96,8 +96,8 @@ Use ExtensioCraft to manage file extensions efficiently. You can browse director
 
 ## Screenshots (MacOS)
 <div align="center">
-<img src="https://github.com/gelndjj/Extensio_Craft/blob/main/resources/screen1_mac.png" alt="Screenshot" width="812" height="590">
-<img src="https://github.com/gelndjj/Extensio_Craft/blob/main/resources/screen2_mac.png" alt="Screenshot" width="812" height="590">
+<img src="https://github.com/gelndjj/Extensio_Craft/blob/main/resources/screen1.png" alt="Screenshot" width="406" height="295">
+<img src="https://github.com/gelndjj/Extensio_Craft/blob/main/resources/screen2.png" alt="Screenshot" width="406" height="295">
 </div>
 
 
