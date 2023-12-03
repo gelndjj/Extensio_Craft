@@ -55,7 +55,7 @@
 ## About The Project
 <div align="center">
 ExtensioCraft is a Python-based application designed to facilitate file system operations with an emphasis on managing file extensions. This tool leverages both command-line and graphical user interface elements, making it versatile and user-friendly.</br>
-<img src="https://github.com/gelndjj/Extensio_Craft/blob/main/resources/app_mac.png" alt="Screenshot" width="927" height="852">
+<img src="https://github.com/gelndjj/Extensio_Craft/blob/main/resources/app_mac.png" alt="Screenshot" width="812" height="590">
 </div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
