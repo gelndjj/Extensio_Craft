@@ -66,6 +66,34 @@ ExtensioCraft is a Python-based application designed to facilitate file system o
 
 Use ExtensioCraft to manage file extensions efficiently. You can browse directories, select specific file types, and perform various file operations.
 
+### Comboboxes
+#### Folder Combobox: 
+- This dropdown menu displays a list of previously browsed directories. Users can select a directory from this list to quickly navigate to it. It's updated every time a new folder is browsed and saved.
+### Listboxes
+#### Extension Listbox: 
+- Shows all file extensions found in the currently selected directory. Each entry in this listbox represents a unique file extension present in the directory. Users can select one or more extensions to perform operations like copying or deleting files with these extensions.
+#### Path Listbox:
+- Displays the paths of the files or directories related to the selected file extensions from the Extension Listbox. It helps users see where files with the selected extensions are located within the chosen directory.
+### Buttons
+
+#### Browse Button:
+- Opens a dialog for the user to select a directory. Once a directory is selected, the application scans it for file extensions and updates the Extension Listbox with these extensions.
+#### Refresh Button:
+- Refreshes the application, particularly useful for updating the Extension Listbox if there are changes in the selected directory or if a new directory is selected from the Folder Combobox.
+#### Browse Specific Button:
+- Allows users to enter a specific file extension and filter the Extension Listbox to show only files with that extension.
+#### Delete Selected Extensions Button:
+- Deletes all files in the selected directories (from the Path Listbox) that have extensions selected in the Extension Listbox.
+##### Copy Selected Extensions Button:
+- Copies all files in the selected directories that have the chosen extensions to a specified destination folder. The destination folder is chosen by the user.
+#### Go to Folder Button:
+- Opens the file explorer (Finder on macOS, Explorer on Windows, etc.) and navigates to the selected folder or file location from the Path Listbox.
+#### Checkboxes (Filter Options)
+- Pictures, Videos, Document Files, Compression Files, Software Files, Others Checkboxes: These are filter options. Selecting any of these checkboxes filters the extensions shown in the Extension Listbox based on the category chosen. For example, selecting "Pictures" will filter and display only image file extensions like .jpg, .png, etc.
+#### Additional Functionalities
+- Progress Bar: Indicates the progress of ongoing operations like scanning directories, copying, or deleting files. It provides visual feedback to the user on the task's progress.
+- Saving and Loading Paths: The application saves the paths of browsed directories and loads them when restarted, providing ease of access to frequently used locations.
+
 <!-- GETTING STARTED -->
 ## Standalone APP (MacOS)
 
