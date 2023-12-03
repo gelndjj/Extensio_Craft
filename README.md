@@ -94,6 +94,13 @@ Use ExtensioCraft to manage file extensions efficiently. You can browse director
 - Progress Bar: Indicates the progress of ongoing operations like scanning directories, copying, or deleting files. It provides visual feedback to the user on the task's progress.
 - Saving and Loading Paths: The application saves the paths of browsed directories and loads them when restarted, providing ease of access to frequently used locations.
 
+## Screenshots (MacOS)
+<div align="center">
+<img src="https://github.com/gelndjj/Extensio_Craft/blob/main/resources/screen1_mac.png" alt="Screenshot" width="812" height="590">
+<img src="https://github.com/gelndjj/Extensio_Craft/blob/main/resources/screen2_mac.png" alt="Screenshot" width="812" height="590">
+</div>
+
+
 <!-- GETTING STARTED -->
 ## Standalone APP (MacOS)
 
