@@ -146,11 +146,6 @@ If you have a suggestion that would make this better, please fork the repo and c
 </a>
 &nbsp
 <a href="https://customtkinter.tomschimansky.com">
-<img src="https://github.com/gelndjj/Extensio_Craft/blob/main/resources/ctk_icon.png" alt="Icon" width="32" height="32">
-</a>
-&nbsp
-<a href="https://learn.microsoft.com/en-us/powershell/scripting/learn/ps101/01-getting-started?view=powershell-7.3">
-<img src="https://github.com/gelndjj/Extensio_Craft/blob/main/resources/ps_icon.png" alt="Icon" width="32" height="32">
 </a>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
     
