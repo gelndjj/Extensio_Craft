@@ -1,10 +1,10 @@
 <a name="readme-top"></a>
 
-[![Contributors][contributors-shield]](https://github.com/gelndjj/Extensio_Craft/graphs/contributors)
-[![Forks][forks-shield]](https://github.com/gelndjj/Extensio_Craft/forks)
-[![Stargazers][stars-shield]](https://github.com/gelndjj/Extensio_Craft/stargazers)
-[![Issues][issues-shield]](https://github.com/gelndjj/Extensio_Craft/issues)
-[![MIT License][license-shield]](https://github.com/gelndjj/Extensio_Craft/blob/main/LICENSE)
+[![Contributors][contributors-shield]](https://github.com/gelndjj/Active_Directory_Automate/graphs/contributors)
+[![Forks][forks-shield]](https://github.com/gelndjj/Active_Directory_Automate/forks)
+[![Stargazers][stars-shield]](https://github.com/gelndjj/Active_Directory_Automate/stargazers)
+[![Issues][issues-shield]](https://github.com/gelndjj/Active_Directory_Automate/issues)
+[![MIT License][license-shield]](https://github.com/gelndjj/Active_Directory_Automate/blob/main/LICENSE)
 [![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/jonathanduthil/)
 
 
@@ -54,11 +54,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <div align="center">
-<img src="https://github.com/gelndjj/Extensio_Craft/blob/main/resources/image0.png" alt="Logo" width="128" height="128">
-</br>
 ExtensioCraft is a Python-based application designed to facilitate file system operations with an emphasis on managing file extensions. This tool leverages both command-line and graphical user interface elements, making it versatile and user-friendly.</br>
 <img src="https://github.com/gelndjj/Extensio_Craft/blob/main/resources/app_mac.png" alt="Screenshot" width="927" height="852">
-</br>
 </div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -85,19 +82,20 @@ pyinstaller --windowed --onefile your_script_name.py
 
 3. After the process completes, find your executable in the dist directory.
 </br>
-</br>
 4. Create a Folder for Your App: Name it YourAppName.app and ensure it ends with .app. Inside this folder, create a hierarchy like this:
 </br>
+
 ```
 YourAppName.app/
 └── Contents/
     ├── MacOS/
     └── Resources/
 ```
+
 5. Move Your Executable: Move the PyInstaller-generated executable into the Contents/MacOS/ directory. Rename it to match your application's name.
 </br>
-</br>
 6. Create an Info.plist File: In the Contents/ directory, create a file named Info.plist with the following basic structure:
+
 ```
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
@@ -124,7 +122,6 @@ YourAppName.app/
 
 7. Replace YourAppName and other details with your app's specifics.
 Add an Icon: Optionally, add your app's icon to the Resources folder and reference it in the Info.plist.
-
 
 <!-- CONTRIBUTING -->
 ## Contributing
